@@ -1,0 +1,39 @@
+body {
+    background-image: url('https://www.netcarshow.com/Ferrari-FXX-K_Evo-2018-1024-02.jpg');
+    background-size: 100vw auto;
+    font-family: system-ui;
+    height: 100vh;
+    
+  }
+  .menu {
+    text-align: center;
+    background: white;
+    color: blue;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    color: teal;
+    text-decoration: none;
+  }
+  a:hover{
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: whitesmoke;
+    text-align: center;
+  }
+  .site-subtitle {
+    font-style: italic;
+  }
+  
